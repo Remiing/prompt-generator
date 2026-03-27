@@ -1,0 +1,25 @@
+{
+  "age": "early 20s",
+  "gender": "female",
+  "expression": "soft smile",
+  "face": {
+    "features": ["symmetrical face", "smooth skin"],
+    "eyes": ["big eyes", "brown eyes"],
+    "lips": "natural lips"
+  },
+  "hair": {
+    "length": "long",
+    "style": "straight",
+    "color": "black"
+  },
+  "body": {
+    "type": "slim",
+    "height": "average"
+  },
+  "clothing": ["white dress"],
+  "pose": "looking at camera",
+  "lighting": "soft lighting",
+  "style": "photorealistic",
+  "camera": ["85mm lens", "shallow depth of field"],
+  "quality": ["ultra detailed", "8k"]
+}
